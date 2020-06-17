@@ -3,17 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2eae1fd4097a93e104d5c0fcfd43a6af",
+  "assets/AssetManifest.json": "502112ced7acd05d9fa4acf2a252701b",
 "assets/assets/images/cam.png": "ad3556c599785d7a3fd6c16631947183",
 "assets/assets/images/el.png": "62e13b8bb3f3913b3eeffb6b3b4f4c23",
+"assets/assets/images/empty_audit.png": "45b42a8cd03ed5398ebcca98976826dc",
 "assets/assets/images/france_flag.png": "16d5a01faf39fbd62e2e45f430401a88",
 "assets/assets/images/logo-groupe-renault.png": "f5ff4eb4baf0d645cc96afbf09c935bd",
 "assets/assets/images/turkey_flag.png": "16d13fe0570e59bb52911b4d23369c5a",
 "assets/assets/images/uk_flag.png": "c16db563975226420de7e603c786c9eb",
-"assets/assets/translations/tr.yaml": "a6c10f90d467cd40f358a3f10a58eb5e",
+"assets/assets/translations/tr.yaml": "c69dd25c964fec207ac840faa15c44f3",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/NOTICES": "d5a8333b1260abceea0e9a2d9399b68b",
+"assets/NOTICES": "32d6f8b0e04aaa46fb227490ed3d3332",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -24,7 +25,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "0461e4f4ee29d79dad72b06781dc9c9d",
 "/": "0461e4f4ee29d79dad72b06781dc9c9d",
-"main.dart.js": "66228e58e77f725e2bfe057c616bd1e0",
+"main.dart.js": "6aa16540a7726165496d7d109c88451b",
 "manifest.json": "5d1049409c00ffa0162bb99b845befbd"
 };
 
